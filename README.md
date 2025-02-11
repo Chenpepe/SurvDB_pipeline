@@ -17,6 +17,7 @@
 ## SurvDB pipeline
 
 ![pipeline](https://gallery-of-wzj.oss-cn-shanghai.aliyuncs.com/pics-for-typora/202502110953989.png)
+![pipeline](./pipeline.png "pipeline")
 
 ### clinical data procession
 
