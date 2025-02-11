@@ -8,7 +8,7 @@
 2. Applied **3 survival analysis methods**: Log-Rank test, univariate Cox regression (uni-Cox), and multivariate Cox regression (multi-Cox).
 3. Identified biomarkers significantly associated with cancer prognosis for **4 clinical outcome types**: Overall survival (OS), Disease-specific survival (DSS), Progression-free interval (PFI) and Disease-free interval (DFI).
 
-**In SurvDB, users can:**
+**In [SurvDB](https://gong_lab.hzau.edu.cn/SurvDB/), users can:**
 
 1. Query survival analysis results for different clinical outcome types across various molecular phenotypes.
 2. Search specific biomarkers by **cancer type**, **biomarker ID**, or **genomic position**.
